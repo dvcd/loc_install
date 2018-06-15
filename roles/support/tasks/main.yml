@@ -24,6 +24,7 @@
     - gcc-4.9
     - g++-4.9
     - git
+    - openexr
     - libeigen3-dev
     - libeigen3-doc
     - mesa-common-dev
